@@ -124,7 +124,7 @@ See [`requirement.txt`](./requirement.txt) for the full dependency list. Core de
 
 ## 📄 License
 
-**
+*MIT License*
 
 ## 👤 Author / Maintainer
 
