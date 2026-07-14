@@ -1,0 +1,18 @@
+{
+    "inputs": {
+        "current": 320,
+        "voltage": 8.5,
+        "temperature": 300,
+        "well_width": 15,
+        "barrier_width": 5,
+        "cascade_stages": 40,
+        "doping": 3.0e22
+    },
+
+    "erwin_results": {
+        "wavelength": 4.60,
+        "temperature": 300,
+        "states": 3,
+        "layer_width": 20
+    }
+}
